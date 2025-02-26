@@ -1,6 +1,11 @@
-Name,Math,Science,English,Attendance
-Alice,85,90,78,95
-Bob,72,68,80,88
-Charlie,88,85,92,90
-Diana,65,70,75,82
-Eva,95,92,89,96
+RollNo,Name,Class,Year,Math,Science,English,Attendance
+101,Alice,10,2022,85,90,78,95
+101,Alice,10,2023,88,92,85,96
+102,Bob,10,2022,72,68,80,88
+102,Bob,10,2023,75,70,82,90
+103,Charlie,9,2022,88,85,92,90
+103,Charlie,9,2023,90,88,94,92
+104,Diana,9,2022,65,70,75,82
+104,Diana,9,2023,68,72,78,85
+105,Eva,10,2022,95,92,89,96
+105,Eva,10,2023,93,94,91,98
